@@ -1,4 +1,4 @@
-# Azure HDInsights
+# Azure HDInsight
 
 ** Kafka **
 
